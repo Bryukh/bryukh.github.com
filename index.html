@@ -1,0 +1,164 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Bryukh's Card.</title>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="Content-Language" content="ru-ru"/>
+    <meta name='yandex-verification' content='73737a5e7464101c'/>
+    <meta name="keywords"
+          content="Valentin Bryukhanov, blog, {% for tag in blog_post.tags.all %}{{ tag }}, {% endfor %}"/>
+    <meta name="description"
+          content="{% if description %}{{ description }}{% else %}Bryukh's notes. Valentin Bryukhanov. Freelancer, developer and just like IT. Programming by Python, HTML, JS. Also Django, MongoDb, PostgreSQL, UI Frameworks.{% endif %}">
+
+    <link rel="stylesheet" href="/static/css/bootstrap.css" type="text/css">
+    <script src="/static/js/bootstrap.js" type="text/javascript"></script>
+
+    <script src="/static/js/jquery.js" type="text/javascript"></script>
+    <script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js"></script>
+
+    <link rel="stylesheet" href="/static/css/style.css" type="text/css">
+    <!--google analytics -->
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-34569555-1']);
+        _gaq.push(['_setDomainName', 'bryukh.com']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+</head>
+<body>
+<div class="container">
+    <div class="navbar">
+        <div class="navbar-inner">
+            <!--<ul class="nav">-->
+                <!--<li>-->
+                    <!--<a href="/blog">Blog</a>-->
+                <!--</li>-->
+                <!--<li>-->
+                    <!--<a href="/about">About me</a>-->
+                <!--</li>-->
+            <!--</ul>-->
+            <ul class="nav pull-right">
+                <li>
+                    <a href="http://www.facebook.com/bryukh">
+                        <img class="navbar-icon" src="/static/img/Facebook-icon.png"></a>
+                </li>
+                <li>
+                    <a href="https://twitter.com/Bryukh">
+                        <img class="navbar-icon" src="/static/img/Twitter-icon.png">
+                    </a>
+                </li>
+                <li>
+                    <a href="http://ru.linkedin.com/in/bryukh">
+                        <img class="navbar-icon" src="/static/img/Linkedin-icon.png">
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="page-header">
+        <h1>Bryukh's card</h1>
+        About me and what i do.
+
+    </div>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="span8">
+            <h2>Valentin Bryukhanov</h2>
+
+            <p>
+                Developer and engineer.<br>
+                The main programming language Python.<br>
+                Also using Javascript, HTML, CSS
+                I have experience as an engineer for telecommunications networks.<br>
+                Setup and operating various servers based on Linux and Windows.<br>
+                Little experience using C++ and C#.<br>
+                I work in the area of ​​server and desktop applications.<br>
+                Also working in web-development (Django, Flask, Frontend).<br>
+            </p>
+            <h4>Skills</h4>
+
+            <p>
+                Python, C++, HTML, Javascript.<br>
+                Django, Flask, UI Frameworks.<br>
+                Linux, Windows server administration.<br>
+                PostgreSQL, MongoDB and other Databases.<br>
+                Telecommunication engineer.
+            </p>
+            <h4>Open workline</h4>
+            Сron plugin and testing for <a href="http://ajenti.org">Ajenti</a>.<br>
+            <a href="http://pep8online.com">pep8online.com</a> - My pep8 checker.<br>
+            Help this guys <a href="http://checkio.org">checkio.org</a><br>
+            <h4>Contacts</h4>
+            <address>
+                <strong>Bryukhanov Valentin.</strong><br>
+                <strong>email:</strong> bvv.mag@gmail.com<br>
+                <strong>skype:</strong> antiduov
+            </address>
+        </div>
+        <div class="span4">
+            {% block sidebar %}
+            <script>
+                var tweetWidget = new TWTR.Widget({
+                    version: 2,
+                    type: 'profile',
+                    rpp: 8,
+                    interval: 30000,
+                    width: 'auto',
+                    height: 300,
+                    theme: {
+                        shell: {
+                            background: '#cccccc',
+                            color: '#050505'
+                        },
+                        tweets: {
+                            background: '#ffffff',
+                            color: '#000000',
+                            links: '#0c45f0'
+                        }
+                    },
+                    features: {
+                        scrollbar: true,
+                        loop: false,
+                        live: false,
+                        behavior: 'all'
+                    }
+                });
+                $(document).ready(function () {
+                    tweetWidget.render().setUser('Bryukh').start()
+                });
+            </script>
+            {% endblock %}
+        </div>
+    </div>
+    <hr>
+    &nbsp
+    <div class="row">
+        <div class="span6">
+            <strong>About me:</strong><br>
+            Freelancer, developer and just like IT.
+            Programming by Python, HTML, JS. Also Django, MongoDb, PostgreSQL, UI Frameworks.
+
+        </div>
+        <div class="span4 offset2">
+            <address>
+                <strong>Bryukhanov Valentin.</strong><br>
+                <strong>email:</strong> bvv.mag@gmail.com<br>
+                <strong>skype:</strong> antiduov
+            </address>
+        </div>
+    </div>
+</div>
+</body>
+</html>
