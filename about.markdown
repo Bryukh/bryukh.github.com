@@ -1,18 +1,18 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
+My name is Valentin Briukhanov and I'm a game designer and programmer.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I create educational and programming games for kids and experienced programmers. I am passionate about game design, programming, and education. I believe that games can be used to teach people of all ages about programming or any other subject. I am also passionate about using technology to solve real-world problems.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+# My profiles
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[Linkedin](https://www.linkedin.com/in/bryukh/)
 
+[GitHub](https://github.com/Bryukh)
 
-[jekyll-organization]: https://github.com/jekyll
+[Facebook](https://www.facebook.com/bryukh)
+
+[Twitter](https://twitter.com/bryukh)
