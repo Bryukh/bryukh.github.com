@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Tiny Lime Clasts
-categories: books games art
+categories: learning
 tags: history engineering gamedesign learning education
 ---
 
