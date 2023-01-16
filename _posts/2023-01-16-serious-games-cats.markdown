@@ -1,14 +1,10 @@
 ---
 layout: post
-title:  First Programmer's games
+title: Serious Games for a Feline Cause
 categories: games
-tags: videogames programming gamedesign gamemechanics learning programming
+tags: videogames seriousgames betterworld gamedesign awarenessraising
 ---
 
-For me, the first programmer's game was Colobot -- real-time strategy with 3D graphics. Players take on the role of an astronaut who must land on a planet and use robots to gather resources, construct buildings, and complete missions. It was Love at first sight -- cool video game with programming. For a long time, I was sure it was the first programmer's game at all (naive, I know). Later I'd found more and more programmer's games; however, it was a big surprise to know that one of the first programmer's games (maybe even the first one) was RobotWar, developed in the 70s and published in 1981. It's a text-based game where players control robots using a simple programming language to fight against each other. Overall, it's interesting to see the evolution of the programmer's game genre, from the early text-based games like RobotWar to titles like Colobot with advanced 3D graphics and complex programming languages to modern programmer's games.
+One type of serious game those are trying to accept the public attention to some problems around us and make the world better this way. It doesn't mean the such game should be too "serious" and forget about the engagement. Vice versus -- such games should be interesting as a game so people play them and creators can tell people some story and get players' eyes on something ignored. It's not necessary should be a huge problem and save the world; it can be anything that makes the world better. For example, the game studio [Devcats](https://www.devcatsgames.com/) and their games about cats. Their games are trying to raise awareness of adoption and saving pets. Through the game, you can see a message from the creators about how we can help cats and maybe help some of them. Not all heroes wear capes, and you can make the world a little better place through games.
 
-P.S.: You can play RobotWar in your browser here: https://archive.org/details/wozaday_Robotwar
-
-#videogames #programming #gamedesign #gamemechanics #learning #programming #programminglanguages
-
-![RobotWar to Colobot](/assets/images/robotwar-to-colobot.png)
+![Screenshot from the game about cats](/assets/images/castle-full-of-cats-screen.jpeg)
