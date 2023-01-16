@@ -24,7 +24,7 @@ title: Valentin Briukhanov                          # the main title
 tagline: Thoughts about Games, Education and Eveything Else   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  The Personal Blog of Valentin Briukhanov. Serious and Educational Games Maker.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'http://bryukh.com'
@@ -58,7 +58,7 @@ google_site_verification:               # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: 'G-V63698533'
+  id: 'G-32DT1298QZ'
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
