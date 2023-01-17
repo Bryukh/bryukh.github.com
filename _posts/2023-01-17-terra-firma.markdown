@@ -11,4 +11,4 @@ Another type of serious game that can be used in education is simulation games o
 
 [Terra Firma Steam Page](https://store.steampowered.com/app/1482770/Terra_Firma/)
 
-![Terra Firma header](https://cdn.cloudflare.steamstatic.com/steam/apps/1482770/header.jpg?t=1625807133)
+![Terra Firma header](https://cdn.cloudflare.steamstatic.com/steam/apps/1482770/header.jpg)
