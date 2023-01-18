@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Art of Tekken Book Review
-categories: books games art
+categories: books
 tags: videogames art inspiration historyofart historyofgames
 ---
 
