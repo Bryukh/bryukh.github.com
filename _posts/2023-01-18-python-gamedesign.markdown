@@ -9,4 +9,4 @@ Jupyter Notebooks is a popular tool for data analysis and scientific computing, 
 
 #gamedesign #python #jupyter #notebooks #gamedev #programming #balancing #visualization 
 
-[Python for Game Designers](/assets/images/python%20for%20gd.png)
+![Python for Game Designers](/assets/images/python%20for%20gd.png)
