@@ -9,4 +9,4 @@ This year, I decided to reread and complete the entire Naruto saga. I read it ma
 
 #naruto #darkfantasy #books #reading #learnwhileread
 
-![AI Generated Image Naruto as Dark Fantasy Poster](assets/images/ai_generated_naruto_poster_as_dark_fantasy.png)
+![AI Generated Image Naruto as Dark Fantasy Poster](/assets/images/ai_generated_naruto_poster_as_dark_fantasy.png)
