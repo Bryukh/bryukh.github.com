@@ -11,6 +11,6 @@ I can find educational aspects in any game; however, each time I enjoy as a kid,
 
 [Cell to Singularity Website](https://celltosingularity.com/)
 
-![Cell to Singularity Screenshot 1](/assets/images/cell_to_singularity_screenshot_1.png)
-![Cell to Singularity Screenshot 2](/assets/images/cell_to_singularity_screenshot_2.png)
-![Cell to Singularity Screenshot 3](/assets/images/cell_to_singularity_screenshot_3.png)
+![Cell to Singularity Screenshot 1](/assets/images/cell_to_singularity_screenshot1.jpg)
+![Cell to Singularity Screenshot 2](/assets/images/cell_to_singularity_screenshot2.jpg)
+![Cell to Singularity Screenshot 3](/assets/images/cell_to_singularity_screenshot3.jpg)
