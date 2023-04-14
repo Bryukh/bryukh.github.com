@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Into the Breach -- Design with Constraints
