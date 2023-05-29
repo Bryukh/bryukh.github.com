@@ -14,4 +14,4 @@ This underscores my belief that investing time and resources in crafting a disti
 
 #GameDesign #RiotGames #Mageseeker #Runeterra #GameDevelopment, #GameLore #VideoGameIndustry
 
-![Mageseeker Poster (Credits Digital Sun)](/assets/images/mageseeker-poster-digital-sun-credits.jpg)
+![Mageseeker Poster (Credits Digital Sun)](/assets/images/mageseeker-poster-digital-sun-credits.jpeg)
