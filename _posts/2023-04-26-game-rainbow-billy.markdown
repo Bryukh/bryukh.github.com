@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Game - Rainbow Billy: The Curse of the Leviathan
+title: Game - Rainbow Billy The Curse of the Leviathan
 categories: books
 tags: games education empathy communication friendship familyfriendly gaming XboxGamePass RainbowBilly gamebasedlearning
 ---

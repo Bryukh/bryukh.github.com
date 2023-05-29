@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The Art of Building Worlds - How Riot Games' Mageseeker Reinforces the Importance of Lore
-categories: 
+title: The Art of Building Worlds - How Riot Games Mageseeker Reinforces the Importance of Lore
+categories: games
 tags: gamedesign riotgames mageseeker runeterra gamedevelopment gamelore videogameindustry
 ---
 
