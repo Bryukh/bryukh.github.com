@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cyberpunk for locusts
-categories: games
+categories: videos
 tags: research youtube video educational cyberpunk matrix simulation
 ---
 
