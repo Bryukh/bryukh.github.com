@@ -11,7 +11,7 @@ From the game mechanics side, both 'Convergence' and 'Mageseeker' adopt a unique
 
 'Convergence' is further proof of why it's important to expand your IP and the universe. Each new game strengthens the whole franchise and the connection with your players. After completing 'Convergence,' I couldn't resist reinstalling 'Wild Rift' on my tablet and trying new champions (I still prefer the Support Lane - Tanks and CC Enchanters are my favorites). And I'm sure I'm not the only one who did that.
 
-So, I'm looking forward to seeing more games in the Runeterra universe. And I'm confident that that the Riot Forge program will not disappoint us. If you're looking for a good fast-paced platformer or want to try this genre, then 'Convergence' is a good choice. Thanks to Double Stallion and Riot Games for the game and the universe.
+So, I'm looking forward to seeing more games in the Runeterra universe. And I'm confident that the Riot Forge program will not disappoint us. If you're looking for a good fast-paced platformer or want to try this genre, then 'Convergence' is a good choice. Thanks to Double Stallion and Riot Games for the game and the universe.
 
 #Convergence #LeagueOfLegends #RiotGames #GameDesign #GameLore #VideoGames #GamingIndustry #Runeterra #RiotForge #DoubleStallion #Arcane #GameMechanics
 
