@@ -13,4 +13,4 @@ I've completed the main part of the game and now I'm playing the challenge level
 
 #GameDev #PuzzleGames #GamingCommunity #IndieGames #RecursivePuzzles #ThinkOutsideTheBox #AbstractThinking #SpaceParadoxes
 
-![Patricks Parabox Gif](/assets/images/patricks_parabox.gif)
+![Patricks Parabox Gif](/assets/images/patrics-parabox.gif)
