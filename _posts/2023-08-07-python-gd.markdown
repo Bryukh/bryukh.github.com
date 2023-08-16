@@ -11,6 +11,6 @@ I don't use Python extensively on the game development engineering side (PyGame 
 
 I plan to write a few articles about using Python for Game Designers, and I would like to know if that interests you. What topics would you want me to cover? Please, let me know in the comments.
 
-#GameDev #Python #GameDesign #EducationalGames #SoftwareEngineering #Analytics #JupyterNotebook #Simulation #AILeague #DataProcessing
+#GameDev #Python #GameDesign #educationalgames #SoftwareEngineering #Analytics #JupyterNotebook #Simulation #AILeague #DataProcessing
 
 ![Python Book](/assets/images/ai_image_book_screen.png)
