@@ -1,0 +1,16 @@
+---
+layout: post
+title: Sequel - A Second Chance
+categories: games
+tags: videogames, gamedesign, gamedev, indie, darkestdungeon, sequel
+---
+
+When "Darkest Dungeon" first graced the gaming scene, it carved out a unique niche, championing the idea that "no punishment is reward." The flow of character deaths, the barrage of debuffs, and surviving a level with minimal setbacks count as success. The game got good reviews and a dedicated fanbase. So I  tried diving into its depths multiple times, only to resurface a few hours later, feeling unconnected. I chalked it up to "it's probably not my genre."
+
+Fast forward to the release of "Darkest Dungeon 2." Admittedly, I almost overlooked it. However, the persistent news of positive reviews got my attention. This time, I approached it with a purely scientific interest, not as a player but as a game designer. To my surprise, 20 hours in, I was hooked! The sequel had transformed the experience. The introduction of rogue-like runs and diverse builds gave the game a fresh, engaging twist. It wasn't just a continuation; it was a reinvention.
+
+This personal revelation led me to a broader reflection. How many potential masterpieces have I, or any of us, missed simply because the first installment didn't resonate? Game developers, like all artists, evolve. They learn, adapt, and refine. This year alone, with titles like Zelda, we've witnessed how a sequel can match and surpass its already exceptional predecessor. Perhaps it's time we, as gamers, embrace the idea of giving games, especially sequels, a second or even third chance. After all, in the realm of gaming, evolution is inevitable.
+
+#videogames #gamesdesign #gamedev #indie #darkestdungeon #sequel
+
+![Darkest Dungeon 2 screenshot](/assets/images/darkest_dungeon_2.jpeg)
