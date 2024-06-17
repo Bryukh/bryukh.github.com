@@ -1,0 +1,12 @@
+---
+layout: post
+title: NumPy 2.0
+categories: programming
+tags: programming python learning numpy gameanalytics gamedev
+---
+
+Throughout my career as a Software and Telecommunication Engineer, Game Developer, and Game Designer, I’ve worked with numerous programming languages. However, my favorite is Python. I know it’s not perfect and has its downsides, but let's call it a "mindless love." In my current workflow as a game developer, I use Python extensively for game analytics and building simulations to fine-tune game balance.
+
+This is why the release of NumPy 2.0 caught my attention. NumPy is a beloved library in my toolbox that makes Python "fast enough" and ideal for analytics and simulations. While this release might not appear revolutionary at first glance, it represents a significant evolution and a step towards cleaning up old code. I'm unsure if I’ll rush to migrate to 2.0 just yet, but it's something to keep an eye on.
+
+[NumPy 2.0.0 Release Notes](https://numpy.org/devdocs/release/2.0.0-notes.html)
