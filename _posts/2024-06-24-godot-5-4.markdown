@@ -1,0 +1,12 @@
+---
+layout: post
+title: Godot 5.4 Update
+categories: gamedev
+tags: gamedev godot multiplayer gameupdate indiedev gamingnews
+---
+
+I’m not actively working with the Godot game engine, but I follow the news and hope to join a project with it someday. I really like the concepts behind it. Today’s news brought exciting updates about Godot 5.4, especially the new multiplayer support! While it might have had some form before, having it as an out-of-the-box feature is a huge leap. This is crucial in today’s gaming world, where multiplayer is a must-have for kids. Check out the full update here: 
+
+https://gdevelop.io/blog/gdevelop-5-4-is-here-multiplayer?utm_source=bryukh
+
+
