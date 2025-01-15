@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Roblox in Schools: A Parents and GDs View
+title: Roblox in Schools - A Parents and GDs View
 categories: games
 tags: games educationalgames playtolearn roblox gamedev edtech gamebasedlearning stem futureofeducation codingeducation
 ---
