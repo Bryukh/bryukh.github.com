@@ -6,7 +6,9 @@ order: 4
 
 My name is Valentin Briukhanov and I'm a game designer and programmer.
 
-I create educational and programming games for kids and experienced programmers. I am passionate about game design, programming, and education. I believe that games can be used to teach people of all ages about programming or any other subject. I am also passionate about using technology to solve real-world problems.
+Game Development Leader with over 10 years in game development and over 20 years of experience in software development and IT. As a key developer at CodeCombat, I’ve crafted engaging, educational games that teach coding to a global audience, impacting over 10,000 students and educators. 
+
+My portfolio includes CodeCombat Worlds, an MMORPG for learning, and AILeague, a coding esport experience, both designed to inspire and equip learners through immersive gameplay. With expertise in Roblox development and a proven ability to enhance code maintainability—such as migrating legacy codebases from CoffeeScript to JavaScript—I bring strong skills in game design, multiplayer coding challenges, and full-stack development. I am passionate about advancing educational experiences through innovative, interactive games.
 
 # My profiles
 
