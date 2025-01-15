@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Educational Games: Questions to Ponder
+title: Educational Games - Questions to Ponder
 categories: GameDev
 tags: gamedev educationalgames playtolearn gamebasedlearning edtech futureofeducation
 ---
