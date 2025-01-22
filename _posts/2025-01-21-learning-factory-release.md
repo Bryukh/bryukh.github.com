@@ -9,7 +9,7 @@ You've probably played this game already if you are following educational games.
 
 The game is backed up with real Machine Learning, links to handpicked educational videos, and an in-game wiki for learning material.
 
-![Learning Factory Trailer](https://www.youtube.com/watch?v=PDDGuagYU68)
+[Learning Factory Trailer](https://www.youtube.com/watch?v=PDDGuagYU68)
 
 hashtag#gamedev hashtag#learninggames hashtag#edgames hashtag#seriousgames
 
