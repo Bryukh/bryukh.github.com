@@ -7,9 +7,22 @@
   type: twitter
   icon: 'fab fa-twitter'
 -
+  type: linkedin
+  icon: 'fab fa-linkedin'
+-
+  type: substack
+  icon: 'fas fa-s'
+  url:  'https://bryukh.substack.com/'
+-
+  type: medium
+  icon: 'fab fa-medium'
+  url:  'https://medium.com/@bryukh'
+
+-
   type: email
   icon: 'fas fa-envelope'
-  noblank: true            # open link in current tab
+  noblank: true 
+
 -
   type: rss
   icon: 'fas fa-rss'

@@ -16,6 +16,9 @@ My portfolio includes CodeCombat Worlds, an MMORPG for learning, and AILeague, a
 
 [GitHub](https://github.com/Bryukh)
 
+[Twitter](https://twitter.com/bryukh)
+
+[Substack](https://bryukh.substack.com/)
+
 [Facebook](https://www.facebook.com/bryukh)
 
-[Twitter](https://twitter.com/bryukh)
