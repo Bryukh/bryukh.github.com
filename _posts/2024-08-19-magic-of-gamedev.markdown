@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Magic of Game Development
-categories: GameDev
+categories: game-dev
 tags: gamedev gamedesign roblox playtolearn learntoplay codecombat gamedevelopment
 ---
 

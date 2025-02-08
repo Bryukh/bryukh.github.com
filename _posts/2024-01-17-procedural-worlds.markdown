@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Procedural Worlds
-categories: game design
+categories: game-design
 tags: game design procedural generation
 ---
 
