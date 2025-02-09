@@ -2,7 +2,7 @@
 layout : post
 title : From Farming to Gravekeeping - A 'Graveyard Keeper' Review
 categories : games
-tags : gamedesign, graveyardkeeper, gamedevelopment, gameindustry, gameart, gamegraphics, gamestory, gamemechanics, gamecharacters
+tags : gamedesign graveyardkeeper gamedevelopment gameindustry gameart gamegraphics gamestory gamemechanics gamecharacters
 ---
 
 I've never really been into games like "Stardew Valley." Don't get me wrong, it's a solid game, and I've kept up with its news and design bits. It's just not my taste for crayons. But the game I do want to chat about? "Graveyard Keeper" by Lazy Bear Games. It's like a darker, medieval twist on Stardew Valley sprinkled with dark humor. Let's not get stuck comparing the two and dive right into Graveyard Keeper. It's all about managing your own medieval cemetery, getting into other gigs, and finding cheeky ways to save some coin. And with the dark humor bit? Yeah, you can guess what "saving coin" might imply. 😉

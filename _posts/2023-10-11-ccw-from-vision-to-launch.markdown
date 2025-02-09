@@ -2,7 +2,7 @@
 layout : post
 title : From Vision to Launch&#58; My Whirlwind Journey with CodeCombat Worlds
 categories : games
-tags : gamedesign, roblox, codecombat, gamedevelopment, teamwork, collaboration, engineering, gamelaunch, educationalgames, roleswitching, gamemechanics, creativity, gameindustry, journey
+tags : gamedesign roblox codecombat gamedevelopment teamwork collaboration engineering gamelaunch educationalgames roleswitching gamemechanics creativity gameindustry journey
 ---
 
 Yesterday marked the launch of "CodeCombat Worlds" on the Roblox platform – an educational game that brings programming to life in a vibrant 3D universe. It's one of those experiences that's better felt than described. This project holds a special place in my heart, having donned multiple hats over the past 18 months, drawing from my diverse professional background and extending my "Jack of all trades" badge to Platinum.

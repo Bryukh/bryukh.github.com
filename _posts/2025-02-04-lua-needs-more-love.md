@@ -2,7 +2,7 @@
 layout: post
 title: Lua needs more love
 categories: games
-tags: games, lua, defold, roblox, codecombat, educational games, html5 games, chromebooks
+tags: games lua defold roblox codecombat educational games html5 games chromebooks
 ---
 
 Three years ago, I became familiar with Lua for an interview test task. Before that, I had no experience with it.

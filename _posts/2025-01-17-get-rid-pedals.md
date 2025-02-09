@@ -2,7 +2,7 @@
 layout: post
 title: Get Rid of Pedals in Video Games
 categories: games
-tags: education, games, learning, play, playtolearn
+tags: education games learning play playtolearn
 ---
 
 I recently read ["Take the Pedals Off the Bike"](https://www.fortressofdoors.com/take-the-pedals-off-the-bike/), which explores teaching kids to ride by removing the pedals so they focus on balance first. This idea is disputable even for cycling, but what if we applied it to video games?  

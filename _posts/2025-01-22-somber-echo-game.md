@@ -2,7 +2,7 @@
 layout: post
 title: Somber Echoes is a dark-fantasy Metroidvania rooted in ancient Greek mythology
 categories: games
-tags: games, mythology, play, metroidvania
+tags: games mythology play metroidvania
 ---
 
 Let me introduce another game today—this time, not an educational one. Well, you know my stance—ALL games are educational in some way, and this one is no exception.

@@ -2,7 +2,7 @@
 layout: post
 title: Toxity in MOBA is not ok
 categories: games
-tags: moba, toxicity, community, gamedev, videogames, bettergaming
+tags: moba toxicity community gamedev videogames bettergaming
 ---
 
 My current "session" game is WildRift. I like this fast-paced MOBA that I can play on my iPad and only need a short time to finish a match. 20-30 minutes is my ideal game time for a session. Looks good, right?

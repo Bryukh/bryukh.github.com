@@ -2,7 +2,7 @@
 layout: post
 title: Video Recommendation -- Deep Dive into LLMs like ChatGPT
 categories: tools
-tags: llm, ai, productivity, game development, ai for work, deep learning
+tags: llm ai productivity gamedevelopment ai for work deep learning
 ---
 
 Most of us are using LLMs for work these days. Personally, I use them across multiple domains:

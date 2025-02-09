@@ -2,7 +2,7 @@
 layout: post
 title: Rooms.xyz - A Platform for Creativity, Collaboration, and Learning
 categories: games
-tags: games, puzzle, unity, c#, gamedesign, gamedev, gamebasedlearning, educationalgames, roomsxyz
+tags: games puzzle unity c# gamedesign gamedev gamebasedlearning educationalgames roomsxyz
 ---
 
 Recently I've discovered a delightful and engaging world of #RoomsXYZ, a platform that lets you create games and interactive experiences right from your browser, and I'm truly impressed. It's a blend of simplicity and innovation that makes it fun and an excellent tool for learning. Rooms.xyz is as adorable as it is flexible. With a few clicks, you can change the environment, move objects, or add new elements from a vast library of built-in assets. But the magic doesn't stop there! If you can't find the asset you want, you can build your own using a Minecraft-style 3D editor.

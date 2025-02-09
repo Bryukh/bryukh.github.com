@@ -2,7 +2,7 @@
 layout: post
 title: ZX Spectrum - My First Gaming Platform 
 categories: games
-tags: videogames, gamedesign, gamedev, indie, zxspectrum
+tags: videogames gamedesign gamedev indie zxspectrum
 ---
 
 My first brush with gaming wasn't on the ZX Spectrum, but rather in video game clubs with Ataris (think arcades but with TVs and Atari bootleg versions). But the ZX Spectrum? That was my true introduction to the gaming world, and did it shape my life. Growing up during the USSR's turbulent times, the Spectrum was a beacon. It was affordable, hooked up to a TV, and ran games off tapes. And, well, let's just say copying those tapes was our version of "sharing" games. Piracy? We didn't even know the term back then. Well, and even if we did, we didn't have a choice to buy original games.

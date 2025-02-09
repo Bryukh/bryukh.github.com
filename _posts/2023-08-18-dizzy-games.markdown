@@ -2,7 +2,7 @@
 layout: post
 title: Dizzy Games - A Lesson in Game Design
 categories: games
-tags: gamedesign, gamedev, videogames, leveldesign, retro, nostalgia
+tags: gamedesign gamedev videogames leveldesign retro nostalgia
 ---
 
 Growing up, many of us have been captivated by iconic games that have left a strong mark on our memories. For me, titles like HoM&M (2 and 3 are the best), Dune, Mario, Sonic, C&C, and many more immediately emerge. Yet, when I dive deeper into my gaming past, the magical world of "Dizzy" by Codemasters truly stands out. Those games featuring a clumsy egg as its protagonist was my first introduction to the intricate world of video game narratives. Despite its shortness by today's standards, "Dizzy" masterfully wove rich storytelling, humor, and challenging puzzles, igniting a lifelong passion for puzzle-solving within me.

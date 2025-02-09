@@ -2,7 +2,7 @@
 layout : post
 title : You are Avatar
 categories : games
-tags : videogames, gamedesign, avatar, gamingbalance, casualgaming
+tags : videogames gamedesign avatar gamingbalance casualgaming
 ---
 
 Ah, the age-old debate of immersion and association in video games! First off, let me tip my virtual hat to Riot Games — their last #esport promotion video ["GODS ft. New Jeans"](https://www.youtube.com/watch?v=C3GouGa0noM) video is truly a feast for the eyes and shows an interesting phenomenon of how people see avatars and themselves in games.

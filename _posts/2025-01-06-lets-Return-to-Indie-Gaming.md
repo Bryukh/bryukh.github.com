@@ -2,7 +2,7 @@
 layout: post
 title: Let’s Return to Indie Gaming
 categories: games
-tags: indiegames, gamedev, videogames, educationalgames, playtolearn
+tags: indiegames gamedev videogames educationalgames playtolearn
 ---
 
 There’s something special about indie games — a spark of creativity, a touch of charm, and a refreshing sense of freedom that big-budget titles often lack. Recently, I’ve felt the need to step away from the usual gaming grind and find that joy again. I’m taking a break and heading back to the roots of gaming, where indie games shine the brightest. That idea is not mine — it was from the youtube channel [Clemmygames](https://www.thebestindiegames.com/).

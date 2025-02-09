@@ -2,7 +2,7 @@
 layout: post
 title: Computer Party RPGs as Work
 categories: games
-tags: videogames, crpg, gamedesign, gamedev, work
+tags: videogames crpg gamedesign gamedev work
 ---
 
 So my last weekend game is ... surprise, surprise... Baldur Gates 3, and before you stop reading this post as "one more review, omg", this post is not about BG3. Instead, it's about a peculiar déjà vu I experience when playing party CRPGs. Disclaimer: I love this genre, and Eye of the Beholder, Neverwinter Nights, and Arcanum: Of Steamworks and Magick Obscura are among my favorite games of all time. Let's look into those games closer and you get my point.

@@ -2,7 +2,7 @@
 layout: post
 title: Competition in Classroom -- Double-Edged Sword
 categories: education
-tags: education, gamebasedlearning, classroomcompetition, productivestruggle
+tags: education gamebasedlearning classroomcompetition productivestruggle
 ---
 
 Competition is a common tool in video games and esports and is often seen as a potential motivator in education. However, competition in the classroom is a double-edged sword.

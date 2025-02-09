@@ -2,7 +2,7 @@
 layout: post
 title: Sequel - A Second Chance
 categories: games
-tags: videogames, gamedesign, gamedev, indie, darkestdungeon, sequel
+tags: videogames gamedesign gamedev indie darkestdungeon sequel
 ---
 
 When "Darkest Dungeon" first graced the gaming scene, it carved out a unique niche, championing the idea that "no punishment is reward." The flow of character deaths, the barrage of debuffs, and surviving a level with minimal setbacks count as success. The game got good reviews and a dedicated fanbase. So I  tried diving into its depths multiple times, only to resurface a few hours later, feeling unconnected. I chalked it up to "it's probably not my genre."

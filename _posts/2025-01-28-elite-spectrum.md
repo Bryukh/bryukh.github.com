@@ -2,7 +2,7 @@
 layout: post
 title: Elite Commodore 64 Source Code is available
 categories: games
-tags: games, elite, commodore 64, source code
+tags: games elite commodore 64 source code
 ---
 
 I have often mentioned that my video game education started with the ZX Spectrum (you know, it may be known as the Commodore 64). One of the games that left a huge impact on me was Elite.

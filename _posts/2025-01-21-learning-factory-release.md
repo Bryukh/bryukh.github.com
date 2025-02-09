@@ -2,7 +2,7 @@
 layout: post
 title: Learning Factory is leaving Early Access
 categories: games
-tags: games, learning, play, playtolearn
+tags: games learning play playtolearn
 ---
 
 You've probably played this game already if you are following educational games. However, I've brought you another reason to try "Learning Factory" again (or the first time) -- They are leaving Early Access and the full polished release in a week!

@@ -2,7 +2,7 @@
 layout: post
 title: Viewfinder - A Game of Pictures
 categories: games
-tags: videogames, gamedesign, gamedev, indie, puzzle, firstperson, viewfinder
+tags: videogames gamedesign gamedev indie puzzle firstperson viewfinder
 ---
 
 Recently, our Game Club delved into the world of "Viewfinder", and as first-person puzzler (with "Portal" and "Talos" are the best) fan, I was eager to dive in. The standout feature of "Viewfinder" is undeniably its groundbreaking mechanic that empowers players to alter their surroundings using photographs. The journey begins with a set of predefined images, but once you get your hands on the camera, the game truly comes alive. This ability to animate pictures and morph reality is not just a trick; it's a central gameplay element that continually evolves.
