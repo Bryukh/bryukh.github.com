@@ -1,5 +1,4 @@
 #  The contact options.
-
 -
   type: github
   icon: 'fab fa-github'
@@ -9,6 +8,10 @@
 -
   type: linkedin
   icon: 'fab fa-linkedin'
+-
+  type: telegram
+  icon: 'fab fa-telegram'
+  url: 'https://t.me/gamebased'
 -
   type: substack
   icon: 'fas fa-s'
