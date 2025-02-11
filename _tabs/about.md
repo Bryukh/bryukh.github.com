@@ -4,17 +4,13 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-My name is Valentin Briukhanov and I'm a game director/developer/designer and software engineer.
+Hi, I’m Valentin Briukhanov — a game developer, designer, and software engineer who loves blending technology, storytelling, and learning through play.
 
-Game Development Leader with over 10 years in game development and over 20 years of experience in software development and IT.
+With over a decade in game development and two decades in software engineering, I’ve been crafting games that teach, challenge, and inspire. From designing engaging coding challenges at CheckiO to leading development at CodeCombat, my work focuses on turning education into an interactive experience. Whether it's building an MMORPG to teach coding, designing game-based learning mechanics, or experimenting with how games can enhance skill-building, I thrive at the intersection of gameplay, problem-solving, and innovation.
 
-As a key developer at CodeCombat, I’ve crafted engaging, educational games that teach coding to a global audience, impacting over 10,000 students and educators.
+I write about game development, game-based learning, and the craft of designing engaging experiences—whether it’s breaking down mechanics, exploring how games can teach, or sharing lessons learned from real projects. My blog is a mix of deep dives, experiments, and practical insights from years of working on educational games and interactive learning.
 
-My portfolio includes CodeCombat Worlds, an MMORPG for learning, and AILeague, a coding esport experience, both designed to inspire and equip learners through immersive gameplay. With expertise in Roblox development and a proven ability to enhance code maintainability—such as migrating legacy codebases from CoffeeScript to JavaScript. In CheckIO I've created hundreds of coding challenges for learners to solve and improve their skills. 
-
-I bring strong skills in game design, multiplayer coding challenges, and full-stack development. 
-
-I am passionate about game development, educational games, software engineering, using AI for game development and education.
+If you’re into game dev, game-based learning, or how games can make education more engaging, stick around—I’m always exploring new ideas, sharing insights, and discussing what makes games a powerful tool for learning.
 
 # Follow me on:
 
