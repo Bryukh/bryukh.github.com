@@ -14,16 +14,18 @@ If you’re into game dev, game-based learning, or how games can make education 
 
 # Follow me on:
 
-[Linkedin](https://www.linkedin.com/in/bryukh/)
-
-[GitHub](https://github.com/Bryukh)
-
 [Medium](https://medium.com/@bryukh)
 
 [Substack](https://bryukh.substack.com/)
 
-[Twitter](https://twitter.com/bryukh)
-
 [Telegram](https://t.me/gamebased)
+
+[Linkedin](https://www.linkedin.com/in/bryukh/)
+
+[GitHub](https://github.com/Bryukh)
+
+[Dev.to](https://dev.to/valentin_briukhanov)
+
+[Twitter](https://twitter.com/bryukh)
 
 [RSS](https://bryukh.com/feed.xml)

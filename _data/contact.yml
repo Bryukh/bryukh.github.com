@@ -22,9 +22,9 @@
   url:  'https://medium.com/@bryukh'
 
 -
-  type: email
-  icon: 'fas fa-envelope'
-  noblank: true 
+  type: devto
+  icon: 'fas fa-d'
+  url: 'https://dev.to/valentin_briukhanov'
 
 -
   type: rss
