@@ -9,4 +9,4 @@ Memory unlocked – PS Vita and the one game I had: Patapon. Let’s be honest �
 
 Now it’s 2025, and the successor to Patapon is almost here – Ratatan! Soon, we’ll hit battle drums and lead armies of cute characters against the Darkness. Yes, we’ve seen it before, but how can we resist when the battle drums call – Yaha Yaha Yaha Hoy!
 
-The gameplay trailer: https://youtu.be/63RmA6SOS-M?si=X0pzRxsLw0yMNPhf
+[The gameplay trailer](https://youtu.be/63RmA6SOS-M?si=X0pzRxsLw0yMNPhf)
