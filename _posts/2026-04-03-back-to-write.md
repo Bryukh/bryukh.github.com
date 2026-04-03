@@ -17,6 +17,6 @@ Of course, it's enjoyable to get some appreciations, but IMHO it should not be t
 
 P.S.: The picture is Alan Wake, as for some reason this story comes to my mind here, no idea why.
 
-![Alan Wake Screenshot](/assets/images/Alan_Wake_Screenshot.png)
+![Alan Wake Screenshot](/assets/images/Alan_Wake_Screenshot.jpg)
 
 #
