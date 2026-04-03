@@ -19,6 +19,8 @@ So what Im going to do next? I'm going to write blogs, articles, and just silly 
 
 Of course, it's enjoyable to get some appreciations, but IMHO it should not be the goal - side-effect maybe. So the first step is to disable Copilot and AI-helper for markdown files. Ok, grammar checker still here, but "style it to..." - disabled. Let's return some joy to our hobbies, which we can share with other human beings.
 
+P.S.: The picture is Alan Wake, as for some reason this story comes to my mind here, no idea why.
+
 ![Alan Wake Screenshot](/assets/images/Alan_Wake_Screenshot.png)
 
 #
